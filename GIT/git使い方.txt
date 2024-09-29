@@ -1,0 +1,23 @@
+● 設定
+＞ git config --global user.name "kazu"
+
+● 状況確認
+＞ git status
+
+：→ On branch main  ：mainブランチにいる証拠
+
+
+● 対象ディレクトリ初期化
+
+＞ git init
+Initialized empty Git repository in C:/Users/reifo/python/src/.git/ 
+
+： → 対象ディレクトリを初期化したMSG。
+   .git という隠しファイルができている
+   
+
+● gitへの登録
+
+＞ git add ****
+
+● XXX
