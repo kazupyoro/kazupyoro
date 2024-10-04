@@ -1,3 +1,15 @@
+● src 置き場
+C:\Users\reifo\python\src
+
+基本reifoの下でログインしているので、
+
+上記以外のディレクトリだと以下のエラー
+
+fatal: not a git repository (or any of the parent directories): .git
+
+＞ cd python/src
+
+
 ● 設定
 ＞ git config --global user.name "kazu"
 
@@ -19,5 +31,10 @@ Initialized empty Git repository in C:/Users/reifo/python/src/.git/
 ● gitへの登録
 
 ＞ git add ****
+
+※ 対象ディレクトリ全部をadd する場合は
+
+＞ git add .
+
 
 ● XXX

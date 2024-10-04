@@ -11,7 +11,6 @@ for name,price in fruits.items():
 for x in range(5):
     print(x) 
 
-
 numbers=[10,21,100,18,2]
 for n in numbers:
     if n >= 100:
